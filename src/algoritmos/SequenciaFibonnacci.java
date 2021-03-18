@@ -10,6 +10,7 @@ public class SequenciaFibonnacci {
 		int n2 = 1;
 		int nf;
 		Scanner valor = new Scanner(System.in);
+		
 		System.out.println("Digite um numero: ");
 		int n = valor.nextInt();
 		
