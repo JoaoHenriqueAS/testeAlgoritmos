@@ -1,4 +1,4 @@
-package palindromo;
+package algoritmos;
 
 import javax.swing.JOptionPane;
 
