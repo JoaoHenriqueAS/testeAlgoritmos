@@ -6,6 +6,7 @@ import java.util.Scanner;
 
 public class NumeroMaiorEMenor {
 
+	@SuppressWarnings("resource")
 	public static void main(String[] args) {
 		
 		ArrayList<Integer> lista = new ArrayList<Integer>();
