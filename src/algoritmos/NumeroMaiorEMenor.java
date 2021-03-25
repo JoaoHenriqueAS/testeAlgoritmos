@@ -23,11 +23,7 @@ public class NumeroMaiorEMenor {
 			YN = resp.next().toUpperCase().charAt(0);//.charAt(0); 
 		}
 		
-		System.out.print("Lista digitada: [");
-		for (int i = 0; i < lista.size(); i++) {
-			System.out.print(lista.get(i) + " ");
-		}
-		System.out.println("]");
+		System.out.println("Lista digitada: " + lista);
 		
 		Collections.sort(lista);
 		System.out.print("Lista ordenada: ");
