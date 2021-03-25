@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class SequenciaFibonnacci {
 	
+	@SuppressWarnings("resource")
 	public static void main(String[] args) {
 		
 		int n1 = 1;
